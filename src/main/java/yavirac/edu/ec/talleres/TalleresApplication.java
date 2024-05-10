@@ -1,13 +1,13 @@
-package yavirac.edu.ec.proyectointegrador;
+package yavirac.edu.ec.talleres;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProyectointegradorApplication {
+public class TalleresApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProyectointegradorApplication.class, args);
+		SpringApplication.run(TalleresApplication.class, args);
 	}
 
 }
